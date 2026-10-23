@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T17:33:44",
+  "model": "D:\\2. coolyeah\\semester 5\\tekber\\aplikasi pendeteksi helm\\helmet-detection-app\\models\\best.pt",
+  "data": "D:\\2. coolyeah\\semester 5\\tekber\\dataset-helm\\data.yaml",
+  "split": "test",
+  "imgsz": "dari konfigurasi training model",
+  "batch": 16,
+  "conf": 0.001,
+  "iou": 0.6,
+  "device": "0",
+  "ultralytics": "8.4.184",
+  "torch": "2.14.1+cu126"
+}

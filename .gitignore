@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Training outputs and model weights
+runs/
+*.pt
+*.pth
+
+# Local environment variables
+.env

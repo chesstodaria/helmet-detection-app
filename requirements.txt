@@ -1,0 +1,14 @@
+# Versi di bawah adalah versi yang terpasang dan dipakai saat pengembangan (Python 3.14, Windows).
+# PyTorch TIDAK dicantumkan di sini karena versi GPU (CUDA) dipasang terpisah lewat index PyTorch.
+# Lihat README bagian "Instalasi" untuk perintah lengkapnya.
+#
+#   GPU NVIDIA : python -m pip install torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cu126
+#   CPU saja   : python -m pip install torch==2.14.1 torchvision==0.29.1
+
+customtkinter==6.0.0
+ultralytics==8.4.184
+opencv-python==5.0.0.93
+Pillow==12.3.0
+numpy==2.5.2
+matplotlib==3.11.2
+PyYAML==6.0.3

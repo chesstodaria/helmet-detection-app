@@ -1,0 +1,2 @@
+precision,recall,mAP50,mAP50_95,speed_preprocess_ms,speed_inference_ms,speed_postprocess_ms
+0.9682,0.6298,0.6618,0.4603,1.7297,5.9581,1.6252

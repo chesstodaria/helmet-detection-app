@@ -1,0 +1,4 @@
+class_id,class_name,precision,recall,mAP50,mAP50_95
+0,head,0.9444,0.9363,0.9717,0.6805
+1,helmet,0.9600,0.9532,0.9868,0.6865
+2,person,1.0000,0.0000,0.0269,0.0138
